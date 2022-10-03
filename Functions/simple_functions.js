@@ -11,3 +11,10 @@ function favoriteThings() {
 }
 
 favoriteThings();
+
+
+function whyImHere() {
+    console.log("I joined learning to code because I enjoy coding");
+}
+
+whyImHere();
