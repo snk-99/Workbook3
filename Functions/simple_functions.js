@@ -10,18 +10,14 @@ function favoriteThings() {
     );
 }
 
-favoriteThings();
-
-
 function whyImHere() {
     console.log("I joined learning to code because I enjoy coding");
 }
-
-whyImHere();
-
 
 function favoritePlace() {
     console.log("I would like to visit Greece because of it's amazing beaches and clear-blue waters");
 }
 
+favoriteThings();
+whyImHere();
 favoritePlace();
